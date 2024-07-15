@@ -1,0 +1,14 @@
+{
+  "name": "array-plus-array",
+  "version": "1.0.0",
+  "description": "Instrucciones: Obtener la suma de dos matrices / arrays ... en realidad, la suma de todos sus elementos.",
+  "main": "array.js",
+  "scripts": {
+    "test": "vitest"
+  },
+  "author": "Julia",
+  "license": "ISC",
+  "devDependencies": {
+    "vitest": "^2.0.2"
+  }
+}
