@@ -10,6 +10,7 @@ export function arrSum(arr1, arr2) {
     
     for (let i = 0; i < arr2.length; i++) {
         totalSum += arr2[i];
+        
     }
     
     
